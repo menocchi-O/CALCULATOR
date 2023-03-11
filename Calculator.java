@@ -3,7 +3,5 @@
 	public int addition(int a, int b){
 		return a+b;
 	}
-	public int addition(double a, double b){
-		return a+b;
-	}
+	
 }" 
